@@ -1,4 +1,4 @@
-slack-hubot-jobbroker
-=====================
+Slack-Hubot Job Broker
+======================
 
-A Symfony project created on September 28, 2015, 6:40 pm.
+Slack to Hubot and back Job Broker &middot; Behind the Firewall
